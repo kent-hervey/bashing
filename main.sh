@@ -12,7 +12,7 @@ month=("Jan" "Feb" "Mar" "Apr" "May" "Jun" "Jul" "Aug" "Sep" "Oct" "Nov" "Dec")
 echo ${month[1]}
 
 
-echo "Please talk to me ..."
+echo "Please talk to me ...note that \"bye\" ends it"
 while :
 do
   read INPUT_STRING
